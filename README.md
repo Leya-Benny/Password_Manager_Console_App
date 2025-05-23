@@ -27,7 +27,7 @@ This is a simple password manager built in Java. It runs in the console and lets
 3. Exit
 Choose an option: 1
 Enter website: gmail.com
-Enter username: myemail@gmail.com
+Enter username: email@gmail.com
 Enter password: pass1234
 Saved.
 
